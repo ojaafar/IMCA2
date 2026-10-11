@@ -56,6 +56,7 @@ Por ejemplo, con 80 kg y 180 cm, el resultado mostrado es aproximadamente 24,7.
 ## Captura de pantalla
 
 ![Interfaz de la calculadora de IMC mostrando un resultado](docs/captura.png)
+![Interfaz de la calculadora de IMC mostrando un resultado](docs/captura1.png)
 
 ## Autor
 
