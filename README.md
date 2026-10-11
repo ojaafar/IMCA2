@@ -7,7 +7,7 @@ Aplicación Android desarrollada para la práctica **BMI Calculator Jetpack Comp
 El proyecto conserva dos versiones de la interfaz en ramas distintas:
 
 - [`main`](https://github.com/ojaafar/IMCA2/tree/main): diseño inicial trabajado en clase.
-- [`ui`](https://github.com/ojaafar/IMCA2/tree/ui): diseño mejorado con ayuda de ChatGPT, con tarjetas, colores y una presentación más visual del resultado.
+- [`ui`](https://github.com/ojaafar/IMCA2/tree/ui): diseño mejorado, colores y una presentación más visual del resultado.
 
 Este README y la captura corresponden a la versión de la rama **`ui`**.
 
