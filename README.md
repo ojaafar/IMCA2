@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Aplicación Android desarrollada para la práctica **BMI Calculator Jetpack Compose** del módulo de Desarrollo de Interfaces.
+Aplicación Android desarrollada para la práctica **BMI Calculator Jetpack Compose**.
 
 ## Ramas del proyecto
 
@@ -56,10 +56,6 @@ Por ejemplo, con 80 kg y 180 cm, el resultado mostrado es aproximadamente 24,7.
 ## Captura de pantalla
 
 ![Interfaz de la calculadora de IMC mostrando un resultado](docs/captura.png)
-
-## Referencia
-
-Ejemplo facilitado para la práctica: [BMI Calculator Jetpack Compose](https://github.com/enginedilema/BMICalculatorJetpackCompose).
 
 ## Autor
 
