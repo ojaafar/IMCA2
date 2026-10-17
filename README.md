@@ -38,7 +38,3 @@ Comparación entre el diseño inicial trabajado en clase y el diseño mejorado d
 | Diseño inicial · main | Diseño mejorado · ui |
 | :---: | :---: |
 | <img src="docs/captura1.png" alt="Diseño inicial de la calculadora" width="230"> | <img src="docs/captura.png" alt="Diseño mejorado de la calculadora" width="230"> |
-
-## Autor
-
-Ousama
