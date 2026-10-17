@@ -23,20 +23,13 @@ Al pulsar **Calcular IMC**, muestra una tarjeta con el nombre, el resultado con 
 4. Pulsar **Calcular IMC**.
 5. Consultar el resultado en la tarjeta inferior. La pantalla permite desplazarse para acceder a todo el contenido.
 
-La altura se convierte a metros antes del cálculo:
-
-```text
-IMC = peso en kg / (altura en metros × altura en metros)
-```
-
 Por ejemplo, con 80 kg y 180 cm, el resultado mostrado es aproximadamente 24,7.
 
 ## Tecnologías utilizadas
 
-- **Kotlin** para la lógica y el cálculo.
-- **Jetpack Compose** para crear la interfaz mediante funciones composables.
-- **Material 3** para los componentes visuales.
-- **Android Studio y Gradle** para desarrollar y compilar el proyecto.
+- **Kotlin** 
+- **Jetpack Compose**
+- **Android Studio y Gradle**
 
 ## Captura de pantalla
 
