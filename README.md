@@ -31,10 +31,10 @@ Por ejemplo, con 80 kg y 180 cm, el resultado mostrado es aproximadamente 24,7.
 - **Jetpack Compose**
 - **Android Studio y Gradle**
 
-## Captura de pantalla
-
-![Interfaz de la calculadora de IMC mostrando un resultado](docs/captura.png)
-![Interfaz de la calculadora de IMC mostrando un resultado](docs/captura1.png)
+Captures de pantalla
+Comparació entre el disseny inicial i el disseny millorat. La resta d'aquest README descriu la versió de la branca ui.
+Disseny inicial	Disseny millorat · branca ui
+<img src="docs/captura1.png" alt="Disseny inicial amb els camps de nom, pes i alçada, i el resultat numèric de l'IMC" width="280">	<img src="docs/captura.png" alt="Disseny millorat amb targetes, selectors de pes i alçada, i un resultat de 24,7" width="280">
 
 ## Autor
 
